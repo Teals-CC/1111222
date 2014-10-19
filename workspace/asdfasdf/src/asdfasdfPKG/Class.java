@@ -7,7 +7,25 @@ public class Class {
 		System.out.println("asdfad");
 		System.out.println("asdf");
 
+		System.out.println("asdfad");
+		System.out.println("asdf");
+
+		System.out.println("asdfad");
+		System.out.println("asdf");
+
+		System.out.println("asdfad");
+		System.out.println("asdf");
+
 		
+		System.out.println("asdfad");
+		System.out.println("asdf");
+
+		System.out.println("asdfad");
+		System.out.println("asdf");
+
+		System.out.println("asdfad");
+		System.out.println("asdf");
+
 	}
 
 }
