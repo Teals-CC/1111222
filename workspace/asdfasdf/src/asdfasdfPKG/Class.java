@@ -7,23 +7,23 @@ public class Class {
 		System.out.println("asdfad");
 		System.out.println("asdf");
 
-		System.out.println("asdfad");
+		System.out.println("234");
+		System.out.println("asdf");
+
+		System.out.println("234234");
 		System.out.println("asdf");
 
 		System.out.println("asdfad");
-		System.out.println("asdf");
-
-		System.out.println("asdfad");
-		System.out.println("asdf");
+		System.out.println("23234");
 
 		
-		System.out.println("asdfad");
+		System.out.println("345345");
 		System.out.println("asdf");
 
-		System.out.println("asdfad");
+		System.out.println("345345");
 		System.out.println("asdf");
 
-		System.out.println("asdfad");
+		System.out.println("45345");
 		System.out.println("asdf");
 
 	}
